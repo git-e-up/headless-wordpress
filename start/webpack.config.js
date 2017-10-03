@@ -21,6 +21,6 @@ module.exports = {
         publicPath: '/assets/js/',
         contentBase: path.join(__dirname, 'public'),
         compress: true,
-        port: 8080
+        port: 5000
     }
 };
